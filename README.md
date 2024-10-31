@@ -16,8 +16,10 @@ Stored repository details (e.g., full_name, created_at, stargazers_count, langua
       
 
 # The most interesting facts and surprising facts I found after analyzing the data:
-Most interesting fact i found after analysing the data was 
+What I found interesting was the correlation between the number of followers of a user and number of repository. Number of public repositories are likely to be more with the more amount of followers. Although the relationship is not vert strong. 
+
+
 # An actionable recommendation for developers based on my analysis:
-     '''''''''
+    
 
 
