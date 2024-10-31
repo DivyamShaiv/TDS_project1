@@ -20,6 +20,10 @@ What I found interesting was the correlation between the number of followers of 
 
 
 # An actionable recommendation for developers based on my analysis:
-    
+Based on my analysis, actionable recommendations are as follows:    
 
+Maintain more meaningful public repositories. Successful developers, such as tenderlove and ahmetb, average over 200 public repositories, compared to 49 for others like munificent.
+Focus on High-Impact Languages:
+
+Concentrate on languages with high impact. Top languages among successful developers in Seattle are JavaScript, Python, Ruby, and Shell.
 
