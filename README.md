@@ -21,9 +21,9 @@ This suggests that while visibility or popularity may correlate with repository 
 
 # An actionable recommendation for developers based on my analysis:
 Based on my analysis, actionable recommendations are as follows:    
+Successful developers average 114.3 public repositories, compared to 85.8 for others. Increasing the number of public repositories may help in gaining more visibility and success.
 
-Maintain more meaningful public repositories. Successful developers, such as tenderlove and ahmetb, average over 200 public repositories, compared to 49 for others like munificent.
-Focus on High-Impact Languages:
+Maintain more public repositories: Successful developers average 114.3 public repositories, compared to 85.8 for others. Increasing the number of public repositories may help in gaining more visibility and success.
 
-Concentrate on languages with high impact. Top languages among successful developers in Seattle are JavaScript, Python, Ruby, and Shell.
+Focus on high-impact languages: Top languages among successful developers are JavaScript, Python, Ruby, Go, and TypeScript. Concentrating efforts on these languages could increase the likelihood of success.
 
