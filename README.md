@@ -16,8 +16,8 @@ Stored repository details (e.g., full_name, created_at, stargazers_count, langua
       
 
 # The most interesting facts and surprising facts I found after analyzing the data:
-What I found interesting was the correlation between the number of followers of a user and number of repository. Number of public repositories are likely to be more with the more amount of followers. Although the relationship is not vert strong. 
-
+I observed an intriguing trend between a user's follower count and their number of public repositories. Generally, users with more followers tend to have a higher number of public repositories, though this relationship is not particularly strong.
+This suggests that while visibility or popularity may correlate with repository output, other factors likely play significant roles in influencing public contributions
 
 # An actionable recommendation for developers based on my analysis:
 Based on my analysis, actionable recommendations are as follows:    
