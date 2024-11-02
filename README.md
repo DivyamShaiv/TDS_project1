@@ -22,8 +22,9 @@ This suggests that while visibility or popularity may correlate with repository 
 # An actionable recommendation for developers based on my analysis:
 Based on my analysis, actionable recommendations are as follows:    
 Successful developers average 114.3 public repositories, compared to 85.8 for others. Increasing the number of public repositories may help in gaining more visibility and success.
-
 Maintain more public repositories: Successful developers average 114.3 public repositories, compared to 85.8 for others. Increasing the number of public repositories may help in gaining more visibility and success.
 
 Focus on high-impact languages: Top languages among successful developers are JavaScript, Python, Ruby, Go, and TypeScript. Concentrating efforts on these languages could increase the likelihood of success.
+
+![image](https://github.com/user-attachments/assets/d499dff6-31e5-4d6d-ab79-a0294081ca5c)
 
